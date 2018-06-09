@@ -23,7 +23,7 @@
   "license": "ISC",
   "main": "index.js",
   "maintainers": [
-    "ankit <ankit.j.arora@gmail.com>"
+    "Ankit Arora <ankit@getdone.app> (https://getdone.app)"
   ],
   "name": "eslint-config-getdone",
   "optionalDependencies": {},
@@ -33,9 +33,15 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/arorankit/eslint-config-getdone.git"
+    "url": "https://github.com/getdone-app/eslint-config-getdone.git"
   },
-  "author": "",
-  "homepage": "https://bitbucket.org/arorankit/eslint-config-getdone#readme",
-  "description": ""
+  "author": "Ankit Arora <ankit@getdone.app> (https://getdone.app)",
+  "homepage": "https://github.com/getdone-app/eslint-config-getdone.git",
+  "description": "eslint config by getdone.app",
+  "keywords": [
+    "eslint",
+    "config",
+    "by",
+    "getdone.app"
+  ]
 }
