@@ -1,0 +1,41 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "eslint-config-getdone",
+        "scope": null,
+        "escapedName": "eslint-config-getdone",
+        "name": "eslint-config-getdone"
+      }
+    ]
+  ],
+  "_location": "/eslint-config-getdone",
+  "dependencies": {
+    "babel-eslint": "7.2.3",
+    "eslint": "4.1.1",
+    "eslint-plugin-class-property": "1.0.6",
+    "eslint-plugin-import": "2.6.1",
+    "eslint-plugin-jsx-a11y": "6.0.2",
+    "eslint-plugin-react": "7.1.0"
+  },
+  "devDependencies": {},
+  "directories": {},
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    "ankit <ankit.j.arora@gmail.com>"
+  ],
+  "name": "eslint-config-getdone",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/arorankit/eslint-config-getdone.git"
+  },
+  "author": "",
+  "homepage": "https://bitbucket.org/arorankit/eslint-config-getdone#readme",
+  "description": ""
+}
